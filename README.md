@@ -31,8 +31,8 @@ Hover state
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/mirajkar-dhruv/blog-preview-card](https://github.com/mirajkar-dhruv/blog-preview-card)
+- Live Site URL: [https://mirajkar-dhruv.github.io/blog-preview-card/](https://mirajkar-dhruv.github.io/blog-preview-card/)
 
 ## My process
 
@@ -44,4 +44,4 @@ Hover state
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@mirajkar-dhruv](https://www.frontendmentor.io/profile/mirajkar-dhruv)
